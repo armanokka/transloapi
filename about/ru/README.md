@@ -20,9 +20,9 @@
 #### Уже более 8 000 специалистов по всему миру используют Трансло. Присоединяйтесь и вы! ![](https://i.ibb.co/6m9V33M/People-Memes-256px-23.gif)
 
 # Статус балансировщика Трансло
-* [![](https://i.ibb.co/3vj6tyL/de.png)](http://beshka1.cns1.com.ua:8032/status) Translo Berlin, Germany ![](https://img.shields.io/badge/up-brightgreen)
-* [![](https://i.ibb.co/j6mT2pr/it.png)](https://pacific-forest-77334.herokuapp.com/status) Translo Genoa, Italy ![](https://img.shields.io/badge/up-brightgreen)
-* [![](https://i.ibb.co/WnYDdyF/us.png)](https://evening-plateau-69630.herokuapp.com/status) Translo Miami, USA ![](https://img.shields.io/badge/up-brightgreen)
+* ![](https://i.ibb.co/3vj6tyL/de.png) Трансло в Берлине, Германия [![](https://img.shields.io/badge/up-brightgreen)](http://beshka1.cns1.com.ua:8032/status)
+* ![](https://i.ibb.co/j6mT2pr/it.png) Translo в Геноа, Италия [![](https://img.shields.io/badge/up-brightgreen)](https://pacific-forest-77334.herokuapp.com/status)
+* ![](https://i.ibb.co/WnYDdyF/us.png) Translo в Майами, США [![](https://img.shields.io/badge/up-brightgreen)](https://evening-plateau-69630.herokuapp.com/status)
   ⠀
 
 # Языки, поддерживаемые переводчиком Трансло
