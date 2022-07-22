@@ -1,4 +1,3 @@
-**english**  [русский](https://github.com/armanokka/transloapi/blob/main/about/ru/README.md)
 [english](https://github.com/armanokka/transloapi/blob/main/about/en/README.md) **русский**
 
 ![](https://img.shields.io/badge/release%20date-june%202021-D4AB3F?style=flat-square) ![](https://img.shields.io/badge/last%20updated-june%202022-3FD476?style=flat-square) ![](https://img.shields.io/badge/used%20by-1.1k%20projects-007bff?style=flat-square) ![](https://img.shields.io/badge/tests-211%20passed-EC7647?style=flat-square) [![](https://img.shields.io/badge/-telegram%20bot-white?logo=telegram&style=for-the-badge)](https://t.me/translobot?start=rapidapi)
