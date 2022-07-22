@@ -16,8 +16,8 @@
 | Кол-во поддерживаемых языков                            |                                131                                |                                126                                 |                                 95                                 |                                 81                                 |                                 50                                 |                                 26                                 |
 ⠀
 #### Получите в подарок 10$! 500K запросов - бесплатно!⠀⠀⠀⠀⠀⠀⠀![](https://i.ibb.co/GFyBV6R/Piglet-Disney-256px-5.gif)
-#### ![](https://i.ibb.co/B43HQg2/ezgif-2-6cbcf8f99e.gif)⠀⠀⠀⠀Поддержка 24/7 в каждом плане, даже бесплатном
-#### Join 8,000+ professionals worldwide using Translo ![](https://i.ibb.co/6m9V33M/People-Memes-256px-23.gif)
+#### ![](https://i.ibb.co/B43HQg2/ezgif-2-6cbcf8f99e.gif)⠀⠀⠀⠀Поддержка 24/7 в каждом плане, даже в бесплатном
+#### Уже более 8 000 специалистов по всему миру используют Трансло. Присоединяйтесь и вы! ![](https://i.ibb.co/6m9V33M/People-Memes-256px-23.gif)
 
 # Статус балансировщика Трансло
 * [![](https://i.ibb.co/3vj6tyL/de.png)](http://beshka1.cns1.com.ua:8032/status) Translo Berlin, Germany ![](https://img.shields.io/badge/up-brightgreen)
